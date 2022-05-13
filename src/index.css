@@ -22,7 +22,7 @@ nav {
     color: #918E9B;
 }
 
-.nav--logo {
+.nav-logo {
     max-width: 100px;
 }
 
@@ -37,16 +37,16 @@ section {
     flex-direction: column;
 }
 
-.hero--photo {
+.hero-photo {
     max-width: 400px;
     align-self: center;
 }
 
-.hero--header {
+.hero-header {
     margin-bottom: 16px;
 }
 
-.hero--text {
+.hero-text {
     margin-top: 0;
 }
 
@@ -68,33 +68,31 @@ section {
     position: relative;
 }
 
-.card--image {
+.card-image {
     width: 100%;
     border-radius: 9px;
     margin-bottom: 9px;
 }
 
-/* ADD */
-.card--title {
+.card-title {
     overflow: hidden;
     text-overflow: ellipsis;
 }
 
-.card--stats {
+.card-stats {
     display: flex;
     align-items: center;
 }
 
-.card--star {
+.card-star {
     height: 14px;
 }
 
-/* ADD */
-.card--price {
+.card-price {
     margin-top: auto;
 }
 
-.card--badge {
+.card-badge {
     position: absolute;
     top: 6px;
     left: 6px;
